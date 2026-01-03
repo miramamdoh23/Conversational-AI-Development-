@@ -173,15 +173,6 @@ tactful-academy/
 
 ---
 
-## Tips for Success
-
-- **Practice Regularly**: Each module builds on previous knowledge
-- **Experiment**: Test different configurations and approaches
-- **Document**: Keep notes on what works and what doesn't
-- **Ask Questions**: Leverage the Tactful community and resources
-- **Build Projects**: Apply your learning to real-world scenarios
-
----
 
 ## Learning Outcomes
 
@@ -217,13 +208,6 @@ By completing this training program, you will be able to:
 
 ---
 
-## Support & Resources
-
-- **Documentation**: [Link to Tactful Docs]
-- **Community**: [Link to Community Forum]
-- **Support**: support@tactful.ai
-
----
 
 ## Certification
 
